@@ -1,6 +1,6 @@
-### Solutions Engineer @github 
-### GitHub Actions, Copilot, Advanced Security and enterprise migrations 
-### Sydney 🇦🇺
+### Solutions Engineer @github | Sydney 🇦🇺
+GitHub Platform, Copilot, Actions, Advanced Security and enterprise migrations 
+ 
 
 <!--
 **rsymo/rsymo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
